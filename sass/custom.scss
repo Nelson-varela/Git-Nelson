@@ -1,0 +1,14 @@
+$primary:#8b54e4;
+$success: #49556B;
+$dark: #18202D;
+$secondary: #EDF2F8;
+
+
+.fondo-card {
+    background-image: url('../images/bg-pattern-quotation.svg');
+    background-repeat: no-repeat;
+    background-position: 85% top;
+}
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";

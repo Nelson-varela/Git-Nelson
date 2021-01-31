@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "purgecss --css sass/custom.css --content index.html -o sass/reducido.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelson-varela/Git-Nelson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelson-varela/Git-Nelson/issues"
+  },
+  "homepage": "https://github.com/Nelson-varela/Git-Nelson#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
